@@ -1,0 +1,22 @@
+{
+  "name": "js-pipeline.input.cradle",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colo/js-pipeline.input.cradle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colo/js-pipeline.input.cradle/issues"
+  },
+  "homepage": "https://github.com/colo/js-pipeline.input.cradle#readme",
+  "dependencies": {
+    "node-app-cradle-client": "git+https://github.com/colo/node-app-cradle-client.git"
+  }
+}
